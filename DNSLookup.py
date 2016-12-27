@@ -1,7 +1,7 @@
 import socket
 import sys
 print "#" * 50
-print "DNSLOOKUP --Krishnaprasadh"
+print "DNSLOOKUP"
 print "#" * 50
 
 try:
